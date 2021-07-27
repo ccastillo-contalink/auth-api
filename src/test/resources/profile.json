@@ -1,0 +1,48 @@
+{
+    "context": {
+        "authorizer-principal-id": "",
+        "cognito-authentication-type": "",
+        "cognito-identity-id": "",
+        "resource-path": "/profile",
+        "account-id": "",
+        "cognito-identity-pool-id": "",
+        "request-id": "205032e9-41ac-4681-94b0-3bd61eaed30c",
+        "api-id": "vru6erjswd",
+        "resource-id": "0heyhw",
+        "user-arn": "",
+        "caller": "",
+        "http-method": "GET",
+        "cognito-authentication-provider": "",
+        "api-key": "",
+        "stage": "contalink_prod",
+        "source-ip": "35.195.209.40",
+        "user": "",
+        "user-agent": "MessageBirdHTTPQueue/1624611219-8a80021c969ed45ed380121d663044096227246b"
+    },
+    "body-json": {
+
+    },
+    "params": {
+        "path": {},
+        "querystring": {},
+        "header": {
+            "messagebird-signature-jwt": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJNZXNzYWdlQmlyZCIsImlhdCI6MTYyNjI2ODIxOCwiZXhwIjoxNjI2MjY4Mjc4LCJqdGkiOiI4NWUxOGIzZC1hNDMwLTRlOTktYjlhZi02ZjZiYmIxMjU0YTUiLCJ1cmxfaGFzaCI6ImM3ZDc1Njc5NzJiMmFkZTM4OTlhZDJhYzI0OTY1OTQ1YWJiMzc5OWU2YTlmMTJkODFkY2I5MjhiYjU5OTBiY2YiLCJwYXlsb2FkX2hhc2giOiJiNmI5OGZlNTYxODI1MmU5OTQ2ZmVlYTEwZGMwYTk5N2NhYTNhMjI3ZTIyYmJmOTQ4MDJiNzQxZWI2NWViNzIwIn0.3JsMfu161RAmuetl_q1toI_DbMOvAi5Zxs9-6WchQz8",
+            "x-b3-sampled": "1",
+            "User-Agent": "MessageBirdHTTPQueue/1624611219-8a80021c969ed45ed380121d663044096227246b",
+            "X-Forwarded-Proto": "https",
+            "Host": "vru6erjswd.execute-api.us-east-1.amazonaws.com",
+            "messagebird-signature": "LX+l2P/o4lT4y8pinhT8nwNLmwSGasDFakiwXBMNccw=",
+            "X-Forwarded-Port": "443",
+            "X-Amzn-Trace-Id": "Root=1-60eee23b-291af4107175ab6520f92177",
+            "x-b3-spanid": "aba74590a472f1a7",
+            "x-b3-traceid": "e9d63e1df2a0e6ce7543880649ad58ee",
+            "messagebird-request-timestamp": "1626268218",
+            "X-Forwarded-For": "35.195.209.40",
+            "content-type": "application/json",
+            "x-messagebird-request-id": "d658b651-e4a4-11eb-8870-4e66c3382469",
+            "accept-encoding": "gzip",
+            "Authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ0ZWNndXJ1cyIsImVtYWlsIjoiY2VzYXIuY2FzdC5tb3JlQGdtYWlsLmNvbSJ9.tgWoi_rn1YYe83LoHC2HekaCAvDzxSyq3nBgMI4xTOw"
+        }
+    },
+    "stage-variables": {}
+}

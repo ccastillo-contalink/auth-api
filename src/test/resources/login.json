@@ -1,0 +1,44 @@
+{
+    "context": {
+        "authorizer-principal-id": "",
+        "cognito-authentication-type": "",
+        "cognito-identity-id": "",
+        "resource-path": "/login",
+        "account-id": "",
+        "cognito-identity-pool-id": "",
+        "request-id": "174a8302-afcb-451a-889c-a40037ef08a3",
+        "api-id": "99clb5k89d",
+        "resource-id": "b200x3",
+        "user-arn": "",
+        "caller": "",
+        "http-method": "POST",
+        "cognito-authentication-provider": "",
+        "api-key": "",
+        "stage": "test",
+        "source-ip": "189.203.84.196",
+        "user": "",
+        "user-agent": "PostmanRuntime/7.26.8"
+    },
+    "body-json": {
+        "password": "cesar.cast.more",
+        "username": "cesar.cast.more@gmail.com"
+    },
+    "params": {
+        "path": {},
+        "querystring": {},
+        "header": {
+            "Authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjZXNhci5jYXN0Lm1vcmVAZ21haWwuY29tIiwiZXhwIjoxNjI3MDcwOTk0LCJpYXQiOjE2MjcwNjAxOTR9.e2tha1BMV2CMTZdWemDfFyh3N8Ay7_pceOtD7-5KQpPo3J9wx-O6N63SDj6C5Eotz9A9_fgJpw7U7gTiMJm6Hg",
+            "Accept": "*/*",
+            "User-Agent": "PostmanRuntime/7.26.8",
+            "X-Forwarded-Proto": "https",
+            "X-Forwarded-For": "189.203.84.196",
+            "Host": "99clb5k89d.execute-api.us-east-1.amazonaws.com",
+            "Postman-Token": "f80c4ff4-b078-45c7-861e-ecede199ec0c",
+            "Accept-Encoding": "gzip, deflate, br",
+            "X-Forwarded-Port": "443",
+            "X-Amzn-Trace-Id": "Root=1-60fcea9d-082d3b8c7351439207240363",
+            "Content-Type": "application/json"
+        }
+    },
+    "stage-variables": {}
+}
